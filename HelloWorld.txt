@@ -1,6 +1,2 @@
 Hello everyone!!!
-<<<<<<< HEAD
-Hi friends!
-=======
 What's up man!
->>>>>>> eaec80db2aec22b0f5d7d0636d122b5cc1e9f3eb
